@@ -4,7 +4,7 @@
 📍 Based in New York | 🌏 Experience in Singapore & the U.S.
 💡 Interested in Business Analysis, Data Analytics, and Web Development
 
-🔧 Skills
+##🔧 Skills
 
 📊 Data Analysis: Excel (PivotTables, VLOOKUP), SQL, Tableau
 
@@ -14,7 +14,7 @@
 
 🤝 Core Strengths: Communication, problem-solving, adaptability, attention to detail
 
-🚀 Projects I’m Proud Of
+##🚀 Projects I’m Proud Of
 
 🍼 Bumwear Marketing Internship → Created TikTok/IG/FB content + led a live selling event with OBS Studio that hit a record sales milestone 🎉
 
