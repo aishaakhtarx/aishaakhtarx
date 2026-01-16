@@ -12,7 +12,7 @@
 
 🌐 Web & Digital Tools: CRM systems, OBS Studio 🎥, social media content creation (TikTok, Instagram, Facebook)
 
-🤝 Core Strengths: Communication, problem-solving, adaptability, attention to detai
+🤝 Core Strengths: Communication, problem-solving, adaptability, attention to detail
 
 
 🚀 Projects I’m Proud Of
